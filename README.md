@@ -1,5 +1,11 @@
-### Hi there 👋
+# Hey! I'm Val :wave:
 
+`👩‍💻 Interactive Media Design Student` | `💻 Web Developer` | `🎧 Music Enthusiast`
+
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ValpzX&show_icons=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ValpzX) |
+| ------------- | ------------- |
+
+Thanks for checking out my GitHub profile :)
 <!--
 **ValpzX/ValpzX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
