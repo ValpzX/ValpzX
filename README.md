@@ -2,7 +2,7 @@
 
 `👩‍💻 Interactive Media Design Student` | `💻 Web Developer` | `🎧 Music Enthusiast`
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ValpzX&show_icons=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ValpzX) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ValpzX&show_icons=true&theme=dark#gh-dark-mode-only) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ValpzX&theme=dark#gh-dark-mode-only) |
 | ------------- | ------------- |
 
 Thanks for checking out my GitHub profile :)
