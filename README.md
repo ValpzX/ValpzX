@@ -1,6 +1,6 @@
 # Hey! I'm Val :wave:
 
-`👩‍💻 Interactive Media Design Student` | `💻 Web Developer` | `🎧 Music Enthusiast`
+`💻 Web Developer & Designer` | `🎧 Music Enthusiast`
 
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=val-perez&show_icons=true&theme=dark#gh-dark-mode-only) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=val-perez&theme=dark#gh-dark-mode-only) |
 | ------------- | ------------- |
