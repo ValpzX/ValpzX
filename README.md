@@ -1,8 +1,8 @@
 # Hey! I'm Val :wave:
 
-`💻 Discord Developer & Web Developer` | `🎧 Music Enthusiast`
+`💻 Software Developer & UX Designer` | `🎧 Music Enthusiast`
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=val-perez&show_icons=true&theme=dark#gh-dark-mode-only) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=val-perez&theme=dark#gh-dark-mode-only) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=val-perez&show_icons=true&theme=dark#gh-dark-mode-only) |
 | ------------- | ------------- |
 
 Thanks for checking out my GitHub profile :)
